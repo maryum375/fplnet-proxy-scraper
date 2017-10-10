@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maryum375/FPLNet-proxy-scraper.git"
+    "url": "git+https://github.com/maryum375/fplnet-proxy-scraper.git"
   },
   "author": "Ran Mariuma",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maryum375/FPLNet-proxy-scraper/issues"
+    "url": "https://github.com/maryum375/fplnet-proxy-scraper/issues"
   },
-  "homepage": "https://github.com/maryum375/FPLNet-proxy-scraper#readme",
+  "homepage": "https://github.com/maryum375/fplnet-proxy-scraper#readme",
   "dependencies": {
     "request": "^2.83.0"
   }
