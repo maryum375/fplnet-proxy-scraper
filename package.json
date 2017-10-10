@@ -1,0 +1,22 @@
+{
+  "name": "fplnet-proxy-scraper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maryum375/FPLNet-proxy-scraper.git"
+  },
+  "author": "Ran Mariuma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maryum375/FPLNet-proxy-scraper/issues"
+  },
+  "homepage": "https://github.com/maryum375/FPLNet-proxy-scraper#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
